@@ -1,0 +1,8 @@
+.bg {
+  background: url("/assets/ungu-bg.jpg");
+  background-size: cover;
+}
+
+#listGuru {
+  margin-top: 2rem;
+}
