@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .bg {
   background: url("/assets/ungu-bg.jpg");
   background-size: cover;
